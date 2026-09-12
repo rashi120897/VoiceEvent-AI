@@ -1,0 +1,43 @@
+# FastAPI & Server
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+pydantic-settings==2.7.1
+python-dotenv==1.0.1
+
+# Supabase
+supabase==2.11.0
+
+# Redis
+redis==5.2.1
+
+# Pinecone
+pinecone-client==5.0.1
+
+# OpenAI
+openai==1.59.3
+
+# LangChain & LangGraph
+langchain==0.3.14
+langchain-openai==0.3.0
+langchain-text-splitters==0.3.4
+langgraph==0.2.62
+
+# Twilio
+twilio==9.4.0
+
+# Document parsing
+pypdf==5.1.0
+python-docx==1.1.2
+
+# WebSocket client (for OpenAI Realtime API)
+websockets==14.1
+
+# Logging & monitoring
+structlog==24.4.0
+
+# HTTP client
+httpx==0.28.1
+
+# CORS
+starlette==0.41.3
